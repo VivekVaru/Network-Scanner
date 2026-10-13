@@ -1,0 +1,16 @@
+port,protocol,service
+21,tcp,ftp
+22,tcp,ssh
+23,tcp,telnet
+25,tcp,smtp
+53,tcp,dns
+80,tcp,http
+110,tcp,pop3
+135,tcp,rpc
+139,tcp,netbios
+143,tcp,imap
+443,tcp,https
+445,tcp,smb
+3306,tcp,mysql
+3389,tcp,rdp
+8080,tcp,http-alt

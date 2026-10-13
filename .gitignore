@@ -1,0 +1,30 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Code Runner temporary files
+tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated scan reports
+reports/
+
+# Empty local placeholder
+/reports.txt
+
+# Local backup of the scanner
+/scanner2.py
+
+# Python test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment and local configuration files
+.env
+.env.*
+!.env.example
