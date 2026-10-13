@@ -183,3 +183,14 @@ GitHub: [@VivekVaru](https://github.com/VivekVaru)
 ---
 
 This project was developed as a hands-on learning exercise in Python programming, TCP networking, and cybersecurity fundamentals.
+
+
+## Screenshots
+
+### Startup Interface
+
+![Network Scanner startup interface](screenshots/scanner-interface.png)
+
+### Scan Results
+
+![Network Scanner scan results](screenshots/scan-results.png)
